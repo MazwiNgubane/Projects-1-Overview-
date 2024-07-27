@@ -44,5 +44,9 @@ this project will  store Power BI AI project that will be used for data Visualiz
   
 ## Branching strategies to be used 
 
-- Git Flow banching strategy will be used for project 2 and project 3, which is the branching strategy that uses two branches - main branch and develop branch that remain for the entire lifetime of he project and other short-live added branches that are created when needed to manage development process
+- Git Flow banching strategy will be used for project 2 and project 3, which is the branching strategy that uses two branches - main branch and develop branch that remain for the entire lifetime of he project and other short-live added branches that are created when needed to manage development process for example feature, hotflix, and release after  used they are deleted. the main two branch  amin branch contain ready code  and develop branch is used for development.
+
+- Trunk-Based branching strategy will be used in project 4 and project 5 which is the branching strategy in which all developers make changes to main branch also called trunk, because it encourage frequent integration. 
+
+  
 
