@@ -36,5 +36,11 @@ One of the biggest challenges that they currently face is being able to quantify
 - CMPG 323 Project 4 - 30336570
 
   
+this repository will store a Testing Automation RPA UiPath project, that will test crucial part of our solotion. RPA is used to automate time-consuming and highly repetitive task.
+
+-  CMPG 323 Project 5 - 30336570
+
+this project will  store Power BI AI project that will be used for data Visualization, data Analysis
+  
 
 
