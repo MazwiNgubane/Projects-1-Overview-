@@ -18,6 +18,23 @@ One of the biggest challenges that they currently face is being able to quantify
 - Robotic Process Automation Testing: An RPA bot should be created to conduct testing which aims to ensure that the web application functions as it is intended to.
 - Reporting: A report should be created to visualise the time and cost savings accumulated per project and client over time.
 
-  # Repositories that will be Created
+  # Repositories that will be used
+- CMPG 323 Overview repository
+
+  The first repository created which is the repository that will be used for planning the whole projects using Agile(Scrum) Approach & Source control, using Kanban Project in GitHub, which is the project that provide several benefit for Agile development like giving the team members a clear overview.
+  
+- CMPG 323 Project 2 - 30336570
+
+  which is the repository that will store code for CRUD RESTfull API that will connect to a 
+  database storing basic telementry data.
+
+- CMPG 323 Project 3 - 30336570
+
+  This repository will be used to store Web App (standard) or an existing Blazor that will be 
+  enhanced and improved to manage CRUD fanctionality of project and client data
+
+- CMPG 323 Project 4 - 30336570
 
   
+
+
