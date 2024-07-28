@@ -1,15 +1,7 @@
 # CMPG323-Overview---30336570
 
-OverView of of Projects of CMPG 323 which is the module that provides end-to-end and exposure to real-life industry problems to solvein the sam manner that  i will be expected to complete in industry.
+OverView of of Projects of CMPG 323 which is the module that provides end-to-end and exposure to real-life industry problems to solvein the same manner that  i will be expected to complete in industry.
 
-##                              Business Context
-
-NWU Tech Trends is a conceptual and fictitious new emerging consulting firm that specialises in software development with specific focus on Data Integration, GenAI (Generative Artificial Intelligence), and Automation.
-
-##                               Business Problem
-
-
-One of the biggest challenges that they currently face is being able to quantify the benefits and value being realised in the client environment. Not only are benefits somewhat subjective (especially qualitative benefits) but the measurements do not stay consistent.
 
   ## Repositories that will be used
 - CMPG 323 Overview repository
@@ -36,8 +28,17 @@ this repository will store a Testing Automation RPA UiPath project, that will te
 this project will  store Power BI AI project that will be used for data Visualization and data Analysis
   
 ## Branching strategies to be used 
+### git flow
+
+![gitFolw branching](https://github.com/user-attachments/assets/d6802af2-732d-4286-bb57-d0f7ca25d9ed)
 
 - Git Flow banching strategy will be used for project 2 and project 3, which is the branching strategy that uses two branches - main branch and develop branch that remain for the entire lifetime of he project and other short-live added branches that are created when needed to manage development process for example feature, hotflix, and release after  used they are deleted. the main two branch  amin branch contain ready code  and develop branch is used for development.
+
+  
+### Trunk-Base
+
+![Trunk-base](https://github.com/user-attachments/assets/17c376a5-084a-403f-9c1d-3e803254be62)
+
 
 - Trunk-Based branching strategy will be used in project 4 and project 5 which is the branching strategy in which all developers make changes to main branch also called trunk, because it encourage frequent integration.
 
