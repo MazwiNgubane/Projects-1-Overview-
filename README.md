@@ -11,13 +11,6 @@ NWU Tech Trends is a conceptual and fictitious new emerging consulting firm that
 
 One of the biggest challenges that they currently face is being able to quantify the benefits and value being realised in the client environment. Not only are benefits somewhat subjective (especially qualitative benefits) but the measurements do not stay consistent.
 
-## Proposed Solution Aproach
-
-- Web API: A web API should be created which allows automations to store telemetry data linked to projects and clients.
-- Web Application: A web application should be created to perform CRUD (create, read, update and delete) functionality on projects and clients stored within the system.
-- Robotic Process Automation Testing: An RPA bot should be created to conduct testing which aims to ensure that the web application functions as it is intended to.
-- Reporting: A report should be created to visualise the time and cost savings accumulated per project and client over time.
-
   ## Repositories that will be used
 - CMPG 323 Overview repository
 
@@ -56,5 +49,8 @@ this project will  store Power BI AI project that will be used for data Visualiz
 
   storage of credentials and sensitive information in within the project is something that most be careful handled like for example we must not forget to include most of .Json file  to gitignore file simple because it  credentials and  sensitive information making it a good vulnerable.
 
-  
+  ## Link to My documatation
+
+  [Lean Technical Documentation 30336570.docx](https://github.com/user-attachments/files/16402303/Lean.Technical.Documentation.30336570.docx)
+
 
