@@ -49,6 +49,8 @@ this project will  store Power BI AI project that will be used for data Visualiz
 - Trunk-Based branching strategy will be used in project 4 and project 5 which is the branching strategy in which all developers make changes to main branch also called trunk, because it encourage frequent integration.
 
   ## Gitignore file
+
+  - gitignore file is the file that is plain text file that cotain a list of all the specified files and folders from the project that git must ingore and not track, it is used to tell git to ignore folder and file that are unnecessary to tranked in are project like sometimes it necessary for most of .json to be indluded in gitignore file.
   
 
   
