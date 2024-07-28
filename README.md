@@ -1,4 +1,4 @@
-## CMPG323-Overview---30336570
+# CMPG323-Overview---30336570
 
 OverView of of Projects of CMPG 323 which is the module that provides end-to-end and exposure to real-life industry problems to solvein the sam manner that  i will be expected to complete in industry.
 
@@ -50,8 +50,11 @@ this project will  store Power BI AI project that will be used for data Visualiz
 
   ## Gitignore file
 
-  - gitignore file is the file that is plain text file that cotain a list of all the specified files and folders from the project that git must ingore and not track, it is used to tell git to ignore folder and file that are unnecessary to tranked in are project like sometimes it necessary for most of .json to be indluded in gitignore file.
-  
+  - gitignore file is the file that is plain text file that cotain a list of all the specified files and folders from the project that git must ingore and not track, it is used to tell git to ignore folder and file that are unnecessary to tranked in are project.
+
+## storage of credentials and sensitive information
+
+  storage of credentials and sensitive information in within the project is something that most be careful handled like for example we must not forget to include most of .Json file  to gitignore file simple because it  credentials and  sensitive information making it a good vulnerable.
 
   
 
