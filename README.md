@@ -1,29 +1,29 @@
-# CMPG323-Overview---30336570
+# Projects Overview 
 
-OverView of of Projects of CMPG 323 which is the module that provides end-to-end and exposure to real-life industry problems to solvein the same manner that  i will be expected to complete in industry.
+This is OverView of Projects of CMPG 323 which is the module that provides end-to-end and exposure to real-life industry problems to solvein the same manner that  i will be expected to complete in industry.
 
 
   ## Repositories that will be used
-- CMPG 323 Overview repository
+- Project 1(Overview) Repository
 
-  The first repository created which is the repository that will be used for planning the whole projects using Agile(Scrum) Approach & Source control, using Kanban Project in GitHub, which is the project that provide several benefit for Agile development like giving the team members a clear overview.
+  The first repository created is the repository that will be used for planning the whole projects using Agile(Scrum) Approach & Source control, with Kanban Project in GitHub, which is the project that provide several benefit for Agile development like giving the team members a clear overview.
   
-- CMPG 323 Project 2 - 30336570
+- Project 2 (Wep API) Repository
 
   which is the repository that will store code for CRUD RESTfull API that will connect to a 
   database storing basic telementry data.
 
-- CMPG 323 Project 3 - 30336570
+-  Project 3 (Web App(standards)) Repository
 
   This repository will be used to store Web App (standard) or an existing Blazor that will be 
   enhanced and improved to manage CRUD fanctionality of project and client data
 
-- CMPG 323 Project 4 - 30336570
+- Project 4 (RPA Testing) Repository
 
   
 this repository will store a Testing Automation RPA UiPath project, that will test crucial part of our solotion. RPA is used to automate time-consuming and highly repetitive task.
 
--  CMPG 323 Project 5 - 30336570
+- Project 5(Reporting) Repository
 
 this project will  store Power BI AI project that will be used for data Visualization and data Analysis
   
